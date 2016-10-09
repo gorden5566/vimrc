@@ -4,8 +4,8 @@
 
 说明
 	
-× .vimrc是Vim的配置文件，稍加修改可使Vim使用更加顺手
-× Vundle是一个Vim插件管理工具，可以方便地安装各种Vim插件
+* .vimrc是Vim的配置文件，稍加修改可使Vim使用更加顺手
+* Vundle是一个Vim插件管理工具，可以方便地安装各种Vim插件
 
 
 ## 使用方法
@@ -22,15 +22,15 @@
 
 3. 安装Vundle插件
 
-使用vim打开任意文件
+	使用vim打开任意文件
 
 	`$ vim test`
 
-执行VundleInstall安装命令
+	执行VundleInstall安装命令
 
 	`:VundleInstall`
 
-待安装完后退出vim
+	待安装完后退出vim
 
 	`:qa`
 
