@@ -12,11 +12,11 @@
 
 1. 安装Vundle
 
-	`$ git clone git@github.com:VundleVim/Vundle.vim.git ~/.vim/bundle`
+	`$ git clone git@github.com:VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 
 2. 复制vimrc配置文件
 
-	`$ git clone git@github.com:gorden5566/vimrc.git ~/.vim`
+	`$ git clone git@github.com:gorden5566/vimrc.git ~/.vim/vimrc`
 
 	`$ cp ~/.vim/vimrc/vimrc ~/.vimrc`
 
@@ -28,7 +28,7 @@
 
 	执行VundleInstall安装命令
 
-	`:VundleInstall`
+	`:PluginInstall`
 
 	待安装完后退出Vim
 
