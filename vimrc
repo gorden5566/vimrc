@@ -56,8 +56,8 @@ let g:miniBufExplMapWindowNavArrows = 1
 let g:miniBufExplMapCTabSwitchBufs = 1   
 let g:miniBufExplModSelTarget = 1  
 let g:miniBufExplMoreThanOne=0
-map <F9> :MBEbp<CR>
-map <F10> :MBEbn<CR>
+map <F7> :MBEbp<CR>
+map <F8> :MBEbn<CR>
 
 " 代码折叠
 Plugin 'tmhedberg/SimpylFold'
