@@ -16,7 +16,7 @@
 
 2. 复制vimrc配置文件
 
-	`$ git clone git@github.com:gorden5566/vimrc.git ~/.vim/vimrc`
+	`$ git clone https://github.com/gorden5566/vimrc.git ~/.vim/vimrc`
 
 	`$ cp ~/.vim/vimrc/vimrc ~/.vimrc`
 
@@ -34,6 +34,18 @@
 
 	`:qa`
 
-4. 使用Vim打开文件查看效果
+4. 安装Powerline字体
+
+	下载powerline字体
+
+	`$ git clone https://github.com/powerline/fonts.git`
+
+	安装字体
+
+	`$ cd font`
+	
+	`$ sh ./install.sh`
+
+5. 使用Vim打开文件查看效果
 
 	`vim ~/.vim`
