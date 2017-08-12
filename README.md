@@ -8,8 +8,18 @@
 * Vundle是一个Vim插件管理工具，可以方便地安装各种Vim插件
 * vim-airline使用了Powerline字体，用于显示状态栏的各种图标
 
+|快捷键|功能|
+|:----:|:--:|
+|F3|打开/关闭NERD类目窗口|
+|F4|打开ctags窗口|
+|F5|生成ctags|
+|ctrl+h|切换到左边的窗口|
+|ctrl+j|切换到下边的窗口|
+|ctrl+k|切换到上边的窗口|
+|ctrl+l|切换到右边的窗口|
+|normal状态tab键|切换buffer|
 
-## 使用方法
+## 安装方法
 
 1. 安装Vundle
 
