@@ -49,3 +49,5 @@
 5. 使用Vim打开文件查看效果
 
 	`vim ~/.vim`
+
+![image](https://github.com/gorden5566/vimrc/raw/master/screenshot/vimrc.png)
