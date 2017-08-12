@@ -128,12 +128,18 @@ set foldlevel=99
 " leader key设置为逗号
 let mapleader = ","
 
-" NERD树快捷键 F3
-map <F3> :NERDTreeToggle<CR>
+" 切换行号显示 F2
+map <F2> :set number!<CR>
 
-" ctags快捷键 F4打开 F5生成tags
-noremap <F4> :TlistToggle<CR>
-noremap <F5> :!ctags -R<CR>
+" 切换paste模式 F3
+map <F3> :set paste!<CR>
+
+" NERD树快捷键 F4
+map <F4> :NERDTreeToggle<CR>
+
+" ctags快捷键 F5打开 F6生成tags
+noremap <F5> :TlistToggle<CR>
+noremap <F6> :!ctags -R<CR>
 
 " 使用vim方向键来切换编辑窗口 Ctrl+H/J/K/L
 nnoremap <C-J> <C-W><C-J>
