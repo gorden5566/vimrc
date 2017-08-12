@@ -4,8 +4,9 @@
 
 ### 说明
 	
-* .vimrc是Vim的配置文件，稍加修改可使Vim使用更加顺手
+* `.vimrc`是Vim的配置文件，稍加修改可使Vim使用更加顺手
 * Vundle是一个Vim插件管理工具，可以方便地安装各种Vim插件
+* vim-airline使用了Powerline字体，用于显示状态栏的各种图标
 
 
 ## 使用方法
