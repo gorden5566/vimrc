@@ -62,7 +62,7 @@
 	
 	去掉`允许粗体字`，设置字体为 `Noto Mono for Powerline Regular`
 	
-	颜色：取消`使用系统主题中的颜色`的勾选，设置内置方案为`浅色的 Solarized`，设置调色板内置方案为 `Solarized`
+	颜色：取消`使用系统主题中的颜色`的勾选，设置内置方案为`深色的 Solarized`，设置调色板内置方案为 `Solarized`
 	
 6. 使用Vim打开文件查看效果
 
