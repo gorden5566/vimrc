@@ -25,7 +25,7 @@
 
 1. 安装Vundle
 
-	`$ git clone git@github.com:VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
+	`$ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 
 2. 复制vimrc配置文件
 
