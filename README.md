@@ -60,7 +60,7 @@
 	`$ sh ./install.sh`
 5. 设置终端样式
 	
-	去掉`允许粗体字`，设置字体为 `Noto Mono for Powerline Regular`
+	常规：去掉`允许粗体字`，设置字体为 `Noto Mono for Powerline Regular`
 	
 	颜色：取消`使用系统主题中的颜色`的勾选，设置内置方案为`深色的 Solarized`，设置调色板内置方案为 `Linux 控制台`
 	
